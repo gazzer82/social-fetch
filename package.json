@@ -1,0 +1,19 @@
+{
+  "name": "social-fetch",
+  "version": "0.0.1",
+  "description": "Tool to fetch posts from various social networks",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gazzer82/social-fetch.git"
+  },
+  "author": "Gareth Jeanne",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gazzer82/social-fetch/issues"
+  },
+  "homepage": "https://github.com/gazzer82/social-fetch#readme"
+}
